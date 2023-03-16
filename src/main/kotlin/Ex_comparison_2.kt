@@ -15,7 +15,6 @@ fun main(args: Array<String>) {
         print("ERROR!!")
     }
     else {
-
         print("E. You need to retake the test")
     }
 
